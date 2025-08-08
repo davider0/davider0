@@ -90,9 +90,9 @@
     <img src="http://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="Powershell" width="40" height="40" />
   </a>
 
- ## 👨‍🦱 Sobre mí: 
+ ## 🤠 Sobre mí: 
  <p align="justify">
-    Soy un estudiante de 21 años apasionado por la vanguardia y la innovación. Cuando tenía 16 años empecé programando creando una calculadora casera con Arduino, desde entonces he sido autodidacta mayoritariamente por medio de libros y práctica, siempre abierto a las nuevas oportunidades que brinda la industria.
+    Soy un estudiante de 21 años apasionado por la vanguardia y la innovación. Cuando tenía 16 años empecé programando creando una calculadora casera con Arduino, desde entonces he sido autodidacta mayoritariamente por medio de libros y práctica, siempre abierto a las nuevas oportunidades.
   
 </p>
 
