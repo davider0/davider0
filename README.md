@@ -65,7 +65,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   </a>
-<a href="https://editor.construct.com">
+<a href="https://editor.construct.net">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Construct_3_Logo.svg" alt="Construct 3 Logo" width="40" height="40>
 </a>
   
