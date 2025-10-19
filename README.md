@@ -12,7 +12,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davider0&hide_progress=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
-<a href="https://github.com/davider0/shadertext">
+<a href="https://github.com/davider0/davider0%2Egithub%2Eio">
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=davider0&repo=davider0%2Egithub%2Eio&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 </div>
