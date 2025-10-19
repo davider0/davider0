@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">👋 ¡Hola! Soy David Escribano</h3>
+👋 ¡Hola! Soy David, encantado
 </p>
 
 ###
@@ -7,7 +7,7 @@
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=SF+Mono&pause=1000&color=1BF700&width=435&lines=%C2%A1Hola!+Soy+David+Escribano;Apasionado+del+dise%C3%B1o+de+Software;Entre+mis+pr%C3%A1cticas%2C+destaco+en%3A;Shaders%3A+OpenGL%2C+GLSL%2C+HLSL;Stacks%3A+MERN%2C+PERN%2C+Spring;Frontend%3A+React%2C+Next.JS%2C+Vite;Backend%3A+ExpressJS%2C+JWT;Scripting%3A+JS%2C+TS%2C+Python%2C+Powershell;Low-level%3A+C%2C+x86;Apps%3A+React+Native%2C+NW.js%2C+AC](https://readme-typing-svg.demolab.com?font=SF+Mono&pause=1000&color=1BF700&width=435&lines=Apasionado+del+dise%C3%B1o+de+Software;Entre+mis+pr%C3%A1cticas%2C+destaco+en%3A;Shaders%3A+OpenGL%2C+GLSL%2C+HLSL;Stacks%3A+MERN%2C+PERN%2C+Spring;Frontend%3A+React%2C+Next.JS%2C+Vite;Backend%3A+ExpressJS%2C+JWT;Scripting%3A+JS%2C+TS%2C+Python%2C+Powershell;Low-level%3A+C%2C+x86;Apps%3A+React+Native%2C+NW.js%2C+AC" alt="Texto"></p>
 
 ###
-<h2 align="center">Desarrollador de Software</h2>
+<h2 align="center">Desarrollador Fullstack</h2>
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davider0&hide_progress=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
@@ -19,7 +19,7 @@
 
 ## 🤝 Conecta conmigo
 
-<a href="https://linkedin.com/in/david-escribano-rodríguez-a646372a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrian-garcia-chavero" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/david-escribano-rodríguez-a646372a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-escribano-rodriguez" height="30" width="40" /></a>
 
 ###
 
@@ -89,11 +89,5 @@
   <a href="https://es.m.wikipedia.org/wiki/Powershell" target="_blank" rel="noreferrer">
     <img src="http://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="Powershell" width="40" height="40" />
   </a>
-
- ## 🤠 Sobre mí: 
- <p align="justify">
-    Soy un estudiante de 21 años apasionado por la vanguardia y la innovación. Cuando tenía 16 años empecé programando creando una calculadora casera con Arduino, desde entonces he sido autodidacta mayoritariamente por medio de libros y práctica, siempre abierto a las nuevas oportunidades.
-  
-</p>
 
 <img src="https://media1.tenor.com/m/sM2R2n4S29cAAAAd/mother2-earthbound.gif" width="100%" height="250">
