@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davider0&hide_progress=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
 <a href="https://github.com/davider0/shadertext">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=davider0&repo=shadertext&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=davider0&repo=davider0%2Egithub%2Eio&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 </div>
 
@@ -89,5 +89,5 @@
   <a href="https://es.m.wikipedia.org/wiki/Powershell" target="_blank" rel="noreferrer">
     <img src="http://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="Powershell" width="40" height="40" />
   </a>
-
+##
 <img src="https://media1.tenor.com/m/sM2R2n4S29cAAAAd/mother2-earthbound.gif" width="100%" height="250">
