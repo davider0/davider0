@@ -89,5 +89,10 @@
   <a href="https://es.m.wikipedia.org/wiki/Powershell" target="_blank" rel="noreferrer">
     <img src="http://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="Powershell" width="40" height="40" />
   </a>
+
 ##
-<img src="https://media1.tenor.com/m/sM2R2n4S29cAAAAd/mother2-earthbound.gif" width="100%" height="250">
+<img src="https://github.com/user-attachments/assets/66dda9ee-0849-4b93-971c-df85d7e549a0" alt="?" width="100%" height="250" />
+
+
+
+
